@@ -88,14 +88,14 @@ The project involves end-to-end project management, including planning, resource
 
 ---
 
-##Results
+## Results
 Key findings from the analysis include:
 
 - Geospatial trends emphasize the need for targeted maintenance initiatives in underperforming neighbourhoods.
 - Policymakers can use these insights to prioritize funding and improve tenant policies.
 - Property managers and investors can focus their resources on buildings requiring the most urgent interventions.
 
---
+---
 
 ## Final Dashboard
 
