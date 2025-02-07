@@ -88,11 +88,24 @@ The project involves end-to-end project management, including planning, resource
 
 ---
 
-## Results
+##Results
 Key findings from the analysis include:
 
 - Geospatial trends emphasize the need for targeted maintenance initiatives in underperforming neighbourhoods.
 - Policymakers can use these insights to prioritize funding and improve tenant policies.
 - Property managers and investors can focus their resources on buildings requiring the most urgent interventions.
 
-- [Final Dashboard](https://public.tableau.com/app/profile/jibin.george2730/viz/TorontoBuildingEvaluationDashboard_17334607948060/Dashboard)
+--
+
+## Final Dashboard
+
+The dashboard provides a comprehensive overview of building evaluations in Toronto. It tracks the total number of buildings evaluated (15,322), along with the timing of those evaluations (immediate, within 1, 2, or 3 years).
+
+Key metrics include the correlation of building component condition with the overall building score (e.g., how much does the condition of the entrance lobby, exterior cladding, etc., influence the total building score) and their respective ratings (Excellent, Good, Average, Poor) based on a 0-1 scale. Geographic distribution of building scores is visualized on a map, overlaid with ward boundaries.
+
+Further analysis is facilitated through charts displaying ward-level performance, frequency of building age (year built), and the distribution of building stories.  This allows users to understand trends and prioritize interventions based on various factors like location, age, and the influence of specific building components on overall building condition.
+
+![Dashboard Image](images/Dashboard.png?raw=true)
+
+
+https://public.tableau.com/app/profile/jibin.george2730/viz/TorontoBuildingEvaluationDashboard_17334607948060/Dashboard
