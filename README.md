@@ -95,4 +95,4 @@ Key findings from the analysis include:
 - Policymakers can use these insights to prioritize funding and improve tenant policies.
 - Property managers and investors can focus their resources on buildings requiring the most urgent interventions.
 
-- (Final Dashboard)[https://public.tableau.com/app/profile/jibin.george2730/viz/TorontoBuildingEvaluationDashboard_17334607948060/Dashboard]
+- [Final Dashboard](https://public.tableau.com/app/profile/jibin.george2730/viz/TorontoBuildingEvaluationDashboard_17334607948060/Dashboard)
